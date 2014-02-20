@@ -1,6 +1,3 @@
 # Such Gifs, Much Wow
 
-![Oh Yes!](michael-ries/gifs/ohyes.gif "Oh YES!")
-```
-![Oh Yes!](michael-ries/gifs/ohyes.gif)
-```
+![Oh Yes!](//git.moneydesktop.com/michael-ries/gifs/ohyes.gif "Oh YES!")
