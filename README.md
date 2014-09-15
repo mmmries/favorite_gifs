@@ -10,6 +10,11 @@
 ![DO IT](https://git.moneydesktop.com/michael-ries/gifs/raw/master/do_it.gif)
 ```
 
+![As You Wish](https://git.moneydesktop.com/michael-ries/gifs/raw/master/as_you_wish.gif)
+```
+![As You Wish](https://git.moneydesktop.com/michael-ries/gifs/raw/master/as_you_wish.gif)
+```
+
 ![You Can Do This](https://git.moneydesktop.com/michael-ries/gifs/raw/master/you_can_do_this.gif)
 ```
 ![You Can Do This](https://git.moneydesktop.com/michael-ries/gifs/raw/master/you_can_do_this.gif)
