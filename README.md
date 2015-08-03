@@ -1,5 +1,15 @@
 # Such Gifs, Much Wow
 
+![Nailed It](https://github.com/mmmries/favorite_gifs/raw/master/banks_pillow_face.gif)
+```
+![Nailed it](https://github.com/mmmries/favorite_gifs/raw/master/banks_pillow_face.gif)
+```
+
+![Wake Me Up](https://github.com/mmmries/favorite_gifs/raw/master/wake_me_up.gif)
+```
+![Wake Me Up](https://github.com/mmmries/favorite_gifs/raw/master/wake_me_up.gif)
+```
+
 ![Oh Yes!](https://github.com/mmmries/favorite_gifs/raw/master/ohyes.gif)
 ```
 ![Oh Yes!](https://github.com/mmmries/favorite_gifs/raw/master/ohyes.gif)
