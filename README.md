@@ -70,11 +70,6 @@
 ![Sad Motorcycle](https://github.com/mmmries/favorite_gifs/raw/master/top_gear_sad_colander_rain.gif)
 ```
 
-![Farley Dance](http://i.imgur.com/88IUgwQ.gif)
-```
-![Farley Dance](http://i.imgur.com/88IUgwQ.gif)
-```
-
 ![Your Opinion](http://i.imgur.com/LAiZjd4.gif)
 ```
 ![Your Opinion](http://i.imgur.com/LAiZjd4.gif)
