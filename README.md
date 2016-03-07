@@ -1,5 +1,10 @@
 # Such Gifs, Much Wow
 
+![GarBear Dance](https://github.com/mmmries/favorite_gifs/raw/master/garbear_dance.gif)
+```
+![GarBear Dance](https://github.com/mmmries/favorite_gifs/raw/master/garbear_dance.gif)
+```
+
 ![I'm Flying](https://github.com/mmmries/favorite_gifs/raw/master/titanic_with_winston.gif)
 ```
 ![I'm Flying](https://github.com/mmmries/favorite_gifs/raw/master/titanic_with_winston.gif)
