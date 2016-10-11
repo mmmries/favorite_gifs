@@ -89,3 +89,18 @@
 ```
 ![Joanna...](https://media.giphy.com/media/12dJZ3EuCWRtMQ/giphy.gif)
 ```
+
+![Disgusting Fresh Air](https://github.com/mmmries/favorite_gifs/raw/master/april_camping.gif)
+```
+![Disgusting Fresh Air](https://github.com/mmmries/favorite_gifs/raw/master/april_camping.gif)
+```
+
+![Nature on my Hand](https://github.com/mmmries/favorite_gifs/raw/master/nature_on_my_hand.jpg)
+```
+![Nature on my Hand](https://github.com/mmmries/favorite_gifs/raw/master/nature_on_my_hand.jpg)
+```
+
+![Nature vs Nature](https://github.com/mmmries/favorite_gifs/raw/master/cant_clean_nature_with_nature.jpg)
+```
+![Nature vs Nature](https://github.com/mmmries/favorite_gifs/raw/master/cant_clean_nature_with_nature.jpg)
+```
