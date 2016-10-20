@@ -13,9 +13,9 @@
 ![laundry kid wasted](http://i.imgur.com/ML2osmL.gif)
 ```
 
-![power wheels wasted](http://i.imgur.com/8cxozbj.gif)
+![power wheels wasted](http://i.imgur.com/8CxozBj.gif)
 ```
-![power wheels wasted](http://i.imgur.com/8cxozbj.gif)
+![power wheels wasted](http://i.imgur.com/8CxozBj.gif)
 ```
 
 ![kid vs goat](http://i.imgur.com/Ss4eshx.gif)
