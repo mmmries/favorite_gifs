@@ -104,3 +104,18 @@
 ```
 ![Nature vs Nature](https://github.com/mmmries/favorite_gifs/raw/master/cant_clean_nature_with_nature.jpg)
 ```
+
+![Data Dance Pogo1](https://github.com/mmmries/favorite_gifs/raw/master/data_dance1.gif)
+```
+![Data Dance Pogo1](https://github.com/mmmries/favorite_gifs/raw/master/data_dance1.gif)
+```
+
+![Data Dance Pogo2](https://github.com/mmmries/favorite_gifs/raw/master/data_dance2.gif)
+```
+![Data Dance Pogo2](https://github.com/mmmries/favorite_gifs/raw/master/data_dance2.gif)
+```
+
+![Picard Dance Pogo](https://github.com/mmmries/favorite_gifs/raw/master/picard_dance.gif)
+```
+![Picard Dance Pogo](https://github.com/mmmries/favorite_gifs/raw/master/picard_dance.gif)
+```
