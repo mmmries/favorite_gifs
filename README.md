@@ -119,3 +119,9 @@
 ```
 ![Picard Dance Pogo](https://github.com/mmmries/favorite_gifs/raw/master/picard_dance.gif)
 ```
+
+![Cat Dance](https://i.imgur.com/k4BIf.gif)
+```
+![Cat Dance](https://i.imgur.com/k4BIf.gif)
+```
+
